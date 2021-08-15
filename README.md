@@ -1,4 +1,4 @@
--## Hello, I'm Roopa!👋 
+## Hello, I'm Roopa!👋 
 - 👀 I’m interested in Coding and debugging.
 - 🌱 I’m currently learning Data Analytics.
 - 📫 How to reach me:roopasarageorge@gmail.com
